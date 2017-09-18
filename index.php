@@ -2,7 +2,7 @@
 /*
 Plugin Name: Weather Widget
 Description: Weather Widget
-Author: Abstain Solutions
+Author: Yashpal Puri
 */
 function weather_widget_main_function() 
 {

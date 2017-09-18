@@ -12,6 +12,6 @@ You will be able to see weather information under Weather Dashboard Widget headi
 
 ## Authors
 
-* **Abstain Solutions** 
+* **Yashpal Puri** 
 
-### Website Url : - http://abstainsolutions.com/
+### Website Url : - http://YashpalPuri.com/
