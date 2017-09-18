@@ -4,6 +4,9 @@ Plugin Name: Weather Widget
 Description: Weather Widget
 Author: Yashpal Puri
 */
+
+add_shortcode('weather_widget','weather_child_function');
+
 function weather_widget_main_function() 
 {
 	wp_add_dashboard_widget(

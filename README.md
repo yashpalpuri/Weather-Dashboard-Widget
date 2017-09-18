@@ -18,6 +18,8 @@ It was a well explained task and was as per my skill-set & expertise. I enjoyed 
 ### Output
 
 You will be able to see weather information under Weather Dashboard Widget heading .
+Or With [weather_widget] shortcode it can dispplay output on frontend
+Sample: http://demo.yashpalpuri.com/mom/index.php/sample-page/
 
 ## Authors
 
